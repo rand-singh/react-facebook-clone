@@ -1,19 +1,17 @@
 import './App.scss';
+import Header from './Header';
 
 function App() {
-  return (
-    <div className="app">
-      <h1>Facebook Clone</h1>
+	return (
+    	<div className='app'>
+			<Header />
 
-      {/* Header */}
-
-      {/* App Body */}
-        {/* Side bar */}
-        {/* Feed */}
-        {/* Widgets - facebook embed iframe */}
-
-    </div>
-  );
+			{/* App Body */}
+				{/* Side bar */}
+				{/* Feed */}
+				{/* Widgets - facebook embed iframe */}
+    	</div>
+  	);
 }
 
 export default App;
