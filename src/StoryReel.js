@@ -20,6 +20,16 @@ function StoryReel() {
                 profileSrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexHup9qKL31A1C3jrBBSzgH8T5y0tRFHUokh290s84Y4GBZs4pHZTtYbDrygFeixKpOs&usqp=CAU"
                 title="Rafeh Qazi"
             />
+            <Story
+                image="https://i.pinimg.com/originals/72/44/ee/7244ee946509ef44632b96c6fc593ca2.jpg"
+                profileSrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexHup9qKL31A1C3jrBBSzgH8T5y0tRFHUokh290s84Y4GBZs4pHZTtYbDrygFeixKpOs&usqp=CAU"
+                title="Rafeh Qazi"
+            />
+            <Story
+                image="https://i.pinimg.com/originals/72/44/ee/7244ee946509ef44632b96c6fc593ca2.jpg"
+                profileSrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexHup9qKL31A1C3jrBBSzgH8T5y0tRFHUokh290s84Y4GBZs4pHZTtYbDrygFeixKpOs&usqp=CAU"
+                title="Rafeh Qazi"
+            />
         </div>
     )
 }
